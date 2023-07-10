@@ -6,6 +6,7 @@ A simple multithreaded web server implemented in Rust.
 
 This project was a practice one at the end of the official rust-lang book that servers the purpose of practicing various topics that were introduced.
 
+The official book: https://doc.rust-lang.org/book/
 ## Main Features
 
 - Utilizes Rust's standard library TCP listener and TCP stream for handling client connections.
